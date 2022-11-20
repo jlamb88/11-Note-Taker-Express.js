@@ -38,10 +38,14 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Installation
 - Github: https://github.com/jlamb88/11-Note-Taker-Express.js.git
-- URL: Heroku
+- URL: https://express-note-taker.herokuapp.com/
+
+
 
 ## Usage
   NPM packages: express, FS
+
+![alt-text](assets/images/screenshot.png) 
 
 ## Credits
   Primary developer: Joseph Lamb
